@@ -1,3 +1,2 @@
 # myfirst
-This is my first git repo
-\n SC
+This is my first git repo<br> SC
