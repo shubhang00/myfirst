@@ -1,3 +1,3 @@
 # myfirst
-This is my first git repo<br> SC 
+This is my first git repo<br> SC DITU
 
